@@ -71,3 +71,4 @@ describe("Register Page", () => {
     });
   });
 });
+//Completed.
