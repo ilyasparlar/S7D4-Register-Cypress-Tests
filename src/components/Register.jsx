@@ -192,3 +192,4 @@ export default function Register() {
     </>
   );
 }
+//Completed.
